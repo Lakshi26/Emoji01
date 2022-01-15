@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.faces{
+    text-align: center;
+    
+    font-size: 10rem;
+    margin-top: 25rem;
+    cursor: pointer;
+    user-select: none;
+}
+.closed{
+    display: none;
+}
+.opened{
+    display: none;
+}
+.active{
+    display: block;
+}
+
+
